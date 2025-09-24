@@ -8,6 +8,7 @@ It includes examples of core concepts such as control structures, functions, arr
 ## 📂 Structure
 - `c/` – C programs (fundamentals, algorithms, data structures).
 - `cpp/` – C++ programs (OOP, STL, advanced topics).
+- Various individual projects files
 
 ---
 
