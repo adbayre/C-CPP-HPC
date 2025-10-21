@@ -1,4 +1,4 @@
-# C / C++ Practice Repository
+# C / C++ / HPC Practice Repository
 
 This repository contains mostly C and C++ programs created to practice and strengthen programming skills.  
 It includes examples of core concepts such as control structures, functions, arrays, pointers, memory management, and object-oriented programming.
